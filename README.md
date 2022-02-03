@@ -3,11 +3,10 @@
 This bot project was created using the Empty Bot template, and contains a minimal set of files necessary to have a working bot.
 
 ## Project
-For an Educational institution to address and solve all the queries of its students, which may include frequently asked questions(FAQs) or a new set of categories and questions asked by students who want to join the institution, and also the faculty to interact with the administration, there is a need for some assistance to address all the queries a chatbot should be an important aspect.
+For an Educational institution to address and solve all the queries of its students, which may include frequently asked questions(FAQs) so, there is a need for some assistance to address all the queries a chatbot should be an important aspect.
 
 ### Project Description
-
-Students studying in educational institutions or students who wants to join some institution should know about how the institution works, about accommodation, things about how the system works and students feel, if the students in that college have any questions with the administration or any other queries, there should be someone or something to guide them, in order not to make them wait longer to get their respective information, so there is the need for chatbot here, and an intelligent chatbot could address and solve a wide variety of problems faced by students, also the faculty who may have queries about the syllabus and the timetable to take student lectures.
+The college enquiry chatbot project is developed exploitation algorithms that analyze user queries and understand user message. This method is a web application that provides answers to the student's question. Students would really like simply question through the bot. The program analyzes the user's query and answers.
 
 
 ### Technologies used
