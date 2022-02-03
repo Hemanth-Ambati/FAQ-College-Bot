@@ -1,4 +1,4 @@
-# Welcome to our College bot
+# Welcome to my FAQ College bot
 
 This bot project was created using the Empty Bot template, and contains a minimal set of files necessary to have a working bot.
 
